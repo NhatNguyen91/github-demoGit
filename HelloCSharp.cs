@@ -11,5 +11,8 @@ public class Class1
 	void addDick()
 	{
 		Console.WriteLine("Add more pussxxy!");
+
 	}
+
+	public void addMoreSource(()=>{ Console.WriteLine("Add more source!")});
 }

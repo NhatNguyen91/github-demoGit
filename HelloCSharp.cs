@@ -15,4 +15,8 @@ public class Class1
 	}
 
 	public void addMoreSource(()=>{ Console.WriteLine("Add more source!")});
+	void Update()
+	{
+		Console.WriteLine("Update availbe!");
+	}
 }

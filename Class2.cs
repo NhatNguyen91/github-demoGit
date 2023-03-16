@@ -6,4 +6,5 @@ public class NewClass
 	{
 		Console.WriteLine(Console.ForegroundColor);
 	}
+	public Action = ()=> Console.WriteLine("Update");
 }

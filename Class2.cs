@@ -6,5 +6,5 @@ public class NewClass
 	{
 		Console.WriteLine(Console.ForegroundColor);
 	}
-	public Action action = ()=> Console.WriteLine("Update All Files");
+	public Action action = ()=> Console.WriteLine("Update All Files and more");
 }
